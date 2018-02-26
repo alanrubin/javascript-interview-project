@@ -14,6 +14,7 @@ To make things easier we have commited a github-api.js file with the REST APIs n
 Up to you, we recommend [create-react-app](https://github.com/facebook/create-react-app).
 
 ## Bonus (not a must)
+* Use ES6 syntax including arrow functions, destructuring and async/await
 * Adding a spinner when information is loading
 * Some sort of Unit Test
 * Some sort of Integration Test
