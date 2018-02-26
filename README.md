@@ -16,8 +16,9 @@ Up to you, we recommend [create-react-app](https://github.com/facebook/create-re
 ## Submitting the solution
 Copy this repository to a repository on your name and add the solution there. It should be clear how to build and run the project locally.
 
-## Bonus (not a must)
+## Bonus (don't need to be in the below specific order)
 * Use ES6 syntax including arrow functions, destructuring and async/await
+* Adding types with Flow or Typescript
 * Adding a spinner when information is loading
 * Some sort of Unit Test
 * Some sort of Integration Test
