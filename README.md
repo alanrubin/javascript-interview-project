@@ -20,6 +20,7 @@ Copy this repository to a repository on your name and add the solution there. It
 * Use ES6 syntax including arrow functions, destructuring and async/await
 * Adding types with Flow or Typescript
 * Adding a spinner when information is loading
+* Deal with errors coming from the backend
 * Some sort of Unit Test
 * Some sort of Integration Test
 * Having a nice UI using a components library (Bootstrap?)
